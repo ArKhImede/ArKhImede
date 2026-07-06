@@ -10,4 +10,3 @@ Fun facts about me:
 
 - I like cooking and gym
 - I have one goat called Stella 🐐
-- I like anime
