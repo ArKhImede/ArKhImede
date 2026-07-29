@@ -1,12 +1,23 @@
-## Hi there 👋
+# Hi there 👋 I'm Christian!
 
-I'm Christian, a passionate programmer from Italy.
+I'm a Python developer from Italy passionate about building interactive, data-driven web applications and frontend tools using **Python**, **Streamlit**, **Folium**, and **Plotly**.
 
-I like to analyze data in depth using ```python```, ```pandas```, ```numpy``` and ```matplotlib```. I also enjoy training and evaluating machine learning models using ```scikit-learn``` to draw conclusions about the data in question.
+While my roots are in data analysis and machine learning (`pandas`, `numpy`, `scikit-learn`), I love bringing data to life on the web, transforming complex datasets into clean, responsive, and intuitive visual dashboards.
 
-If there is data to analyze, I'm in to explore it further, whether it is games, weather, you name it.
+If there's interesting data to explore, from gaming and weather to real-time geospatial tracking, I'm in! 🚀
 
-Fun facts about me:
+---
 
-- I like cooking and gym
-- I have one goat called Stella 🐐
+## 🛠️ Tech Stack & Skills
+
+- **Web Apps & Dashboards:** Streamlit, Folium, Plotly Express, `streamlit-folium`
+- **Geospatial & Data Processing:** GeoPandas, Pandas, NumPy, Requests / REST APIs
+- **Machine Learning & Analytics:** Scikit-Learn, Matplotlib
+- **Core Language:** Python 🐍
+
+---
+
+## ⚡ Fun Facts About Me
+
+- 🏋️‍♂️ Big fan of gym and cooking
+- 🐐 Proud owner of one goat named **Stella**
