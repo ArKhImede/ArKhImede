@@ -1,23 +1,24 @@
-# Hi there 👋 I'm Christian!
+# Hi, I'm Christian! 👋 🇮🇹
 
-I'm a Python developer from Italy passionate about building interactive, data-driven web applications and frontend tools using **Python**, **Streamlit**, **Folium**, and **Plotly**.
+I’m a **Data Scientist** based in Italy with a strong focus on turning complex datasets into clear visual insights, predictive models and data-driven applications.
 
-While my roots are in data analysis and machine learning (`pandas`, `numpy`, `scikit-learn`), I love bringing data to life on the web, transforming complex datasets into clean, responsive, and intuitive visual dashboards.
+I love the entire lifecycle of data: dissecting raw numbers, uncovering hidden patterns through visual exploratory analysis and training machine learning models to solve real-world problems.
 
-If there's interesting data to explore, from gaming and weather to real-time geospatial tracking, I'm in! 🚀
+### 🛠️ Tech Stack & Tools
 
----
-
-## 🛠️ Tech Stack & Skills
-
-- **Web Apps & Dashboards:** Streamlit, Folium, Plotly Express, `streamlit-folium`
-- **Geospatial & Data Processing:** GeoPandas, Pandas, NumPy, Requests / REST APIs
-- **Machine Learning & Analytics:** Scikit-Learn, Matplotlib
+- **Data Manipulation & Analysis:** `pandas`, `numpy`
+- **Machine Learning & Modeling:** `scikit-learn`
+- **Data Visualization:** `matplotlib`, `seaborn`, `plotly`
+- **Interactive Apps & Mapping:** `streamlit`, `folium`, `geopandas`
 - **Core Language:** Python 🐍
 
----
+### 📊 Areas of Interest
 
-## ⚡ Fun Facts About Me
+- **Exploratory Data Analysis (EDA):** Uncovering trends and storytelling through rich static & interactive visualizations.
+- **Predictive Modeling:** Classification, regression and feature engineering using Scikit-Learn.
+- **Geospatial & Visual Analytics:** Mapping spatial data and creating responsive dashboards.
 
-- 🏋️‍♂️ Big fan of gym and cooking
-- 🐐 Proud owner of one goat named **Stella**
+### ⚡ Beyond the Code
+
+- 🏋️‍♂️ Gym enthusiast & home cook
+- 🐐 Proud owner of a goat named **Stella**
