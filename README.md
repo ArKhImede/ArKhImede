@@ -8,7 +8,7 @@ I love the entire lifecycle of data: dissecting raw numbers, uncovering hidden p
 
 - **Data Manipulation & Analysis:** `pandas`, `numpy`
 - **Machine Learning & Modeling:** `scikit-learn`
-- **Database:**: `MySQL`
+- **Database:** `MySQL`
 - **Data Visualization:** `matplotlib`, `seaborn`, `plotly`
 - **Interactive Apps & Mapping:** `streamlit`, `folium`, `geopandas`
 - **Core Language:** Python 🐍
